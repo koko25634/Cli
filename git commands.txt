@@ -1,0 +1,9 @@
+remote link - git@github.com:drago08/NextSimpleStarter.git
+
+1:- git remote add origin git@github.com:drago08/NextSimpleStarter.git
+
+2:- git remote -v ( to view all remote links )
+
+3:- git remote rm origin ( to remove all origin )
+
+4:- git clone https://github.com/drago08/NextSimpleStarter/ ( to clone enter Next simple start )

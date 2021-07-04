@@ -1,0 +1,12 @@
+HEROKU INSTALLATION :
+
+curl https://cli-assets.heroku.com/install.sh | sh
+
+
+1:- heroku login -i
+
+2:- heroku container:login
+
+3:- heroku container:push web --app *containername*
+
+4:- heroku container:release web --app *containername*

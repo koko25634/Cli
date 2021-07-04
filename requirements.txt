@@ -1,0 +1,15 @@
+async-generator==1.10
+async-lru==1.0.2
+async-timeout==3.0.1
+asyncio==3.4.3
+beautifulsoup4==4.9.3
+browser-cookie3==0.12.1
+bs4==0.0.1
+colorama==0.4.4
+cryptography==3.4.7
+requests==2.25.0
+requests-html==0.10.0
+requests-toolbelt==0.9.1
+Telethon==1.21.1
+pycryptodomex==3.10.1
+pexpect==4.8.0
